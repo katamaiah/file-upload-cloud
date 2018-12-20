@@ -1,15 +1,15 @@
 {
     "storageservice": "aws",
     "azureblobconfiguration": {
-        "sas": "?sv=2018-03-28&ss=bfqt&srt=sco&sp=rwdlacup&se=2018-12-28T15:37:51Z&st=2018-12-13T07:37:51Z&spr=https&sig=B1NoXyy6%2F1WIMs2oxGEAt2tBdLQycHmSyOJoNgkhgyM%3D",
-        "storageAccount": "cftmweb",
-        "containerName": "cftmwebcontainer"
+        "sas": "abc",
+        "storageAccount": "abc",
+        "containerName": "abc"
     },
     "awss3configuration": {
-        "accessKeyId": "AKIAJY34GBN3H2KQQLXQ",
-        "secretAccessKey": "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",
-        "region": "ap-south-1",
-        "folder": "cftm/",
-        "bucket": "cftmweb-bucket"
+        "accessKeyId": "key",
+        "secretAccessKey": "secaccesskey",
+        "region": "region1",
+        "folder": "abc/",
+        "bucket": "abc-bucket"
     }
 }
